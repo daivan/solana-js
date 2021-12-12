@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamesbachini/Solana-JSON.git"
+    "url": "git+https://github.com/daivan/solana-js"
   },
   "keywords": [
     "Solana",
@@ -21,14 +21,13 @@
     "wrapper",
     "library"
   ],
-  "dependencies": {
-    "@solana/web3.js": "^0.46.0",
-    "buffer-layout": "^1.2.0"
-  },
-  "author": "James Bachini",
-  "homepage": "https://jamesbachini",
+  "author": "Daivan Trinh",
+  "homepage": "https://github.com/daivan/solana-js",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/jamesbachini/Solana-JSON/issues"
+    "url": "https://github.com/daivan/solana-js/issues"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
   }
 }
